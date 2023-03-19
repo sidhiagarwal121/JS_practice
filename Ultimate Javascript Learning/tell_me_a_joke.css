@@ -1,0 +1,22 @@
+.main{
+    margin-left: 45%;
+    background: black;
+    color: white;
+    margin-top: 65px;
+    height: 45px;
+    width: 95px;
+    cursor: pointer;
+}
+
+.msg{
+    margin-left: 35%;
+    background: black;
+    color: white;
+    height: 330px;
+    width: 550px;
+    align-items: center;
+}
+.msg h1{
+    margin-top: 23%;
+}
+
